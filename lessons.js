@@ -103,7 +103,7 @@ let lessons = [
         "subject": 'Software Engineering',
         "location": "Hendon",
         "price": 260,
-        "image": "https://images.app.goo.gl/ZxcE433YBtzofqTDA.jpg",
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.theconversation.com%2Ffiles%2F274417%2Foriginal%2Ffile-20190514-60529-ktb5t3.jpg%3Fixlib%3Drb-1.1.0%26q%3D45%26auto%3Dformat%26w%3D1200%26h%3D1200.0%26fit%3Dcrop&imgrefurl=https%3A%2F%2Ftheconversation.com%2Fhow-to-overcome-a-fear-of-maths-115646&tbnid=c5HMdZ8OiqOrSM&vet=12ahUKEwjUuo6npfbvAhUSbRoKHdiVDV4QMygCegUIARDWAQ..i&docid=UzBZqObujQ5geM&w=1200&h=1200&q=maths&ved=2ahUKEwjUuo6npfbvAhUSbRoKHdiVDV4QMygCegUIARDWAQ",
         "availableInventory":5,
         "rating": 5
     }
