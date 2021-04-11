@@ -49,7 +49,7 @@ let lessons = [
         "subject": 'Medicine',
         "location": "Hendon",
         "price": 350,
-        "image": "https://images.app.goo.gl/CJPvExvsqCJT5ZLH7",
+        "image": "https://industrywired.com/wp-content/uploads/2020/01/Business-Tech.jpg",
         "availableInventory":5,
         "rating": 5
     },
